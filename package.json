@@ -3,6 +3,7 @@
   "version": "0.1.4",
   "description": "vanilla javascript DateTime range picker",
   "module": "js/main.js",
+  "style": "css/vanilla-datetimerange-picker.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

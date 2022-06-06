@@ -9,6 +9,8 @@
 * I just changed the code a bit to not need jquery.
 */
 
+import moment from 'moment';
+
 export default class DateRangePicker {
     constructor (element, options = {}, cb) {
         //default settings for options

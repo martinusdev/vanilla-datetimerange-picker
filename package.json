@@ -1,0 +1,27 @@
+{
+  "name": "vanilla-datetimerange-picker",
+  "version": "0.1.4",
+  "description": "vanilla javascript DateTime range picker",
+  "main": "vanilla-datetimerange-picker.js",
+  "style": "vanilla-datetimerange-picker.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cytech/vanilla-datetimerange-picker.git"
+  },
+  "author": {
+    "name": "alumuko",
+    "email": "",
+    "url": ""
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alumuko/vanilla-datetimerange-picker/issues"
+  },
+  "homepage": "https://github.com/alumuko/vanilla-datetimerange-picker",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
